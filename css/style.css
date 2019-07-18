@@ -6,3 +6,21 @@ html {
     box-sizing: inherit;
 }
 
+body {
+    background-color: #2C2141;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    justify-items: center
+}
+
+.card {
+    background-color: #F8F8F8;
+    display: flex;
+    height: 320px;
+    width: 624px;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    
+}
